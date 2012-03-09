@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	margin:0;
+	padding:0;	
+}
+
+body {
+	margin:0;
+	padding:0;	
+}
+
+ul {
+	margin:0;
+	padding:0;
+}
+
+nav {
+	 margin: 2em 0 0 2em;	
+}
+
+nav li {
+	display:inline-block;	
+}
+
+a,
+a:link,
+a:visited {
+	text-decoration:none;	
+	margin:0 2em 0 0;
+	padding:5px;
+	border:2.5px solid #09F;
+	font:normal 100%/1 Verdana, Geneva, sans-serif;
+}
+
+a:hover,
+a:focus,
+a:active {
+	text-transform:uppercase;
+}
+
+.fill-me {
+	margin:2em 0 0 2em;	
+}
